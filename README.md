@@ -1,23 +1,9 @@
 # Hi, I'm Jules 👋
 
-Engineering student @ Columbia passionate about building tools that solve real problems. Currently exploring the intersection of civic tech, automation, and social media algorithms.
+Engineering student at Columbia who discovered the magic of technology through Chrome DevTools and now builds products that delight users.
 
-## 🔭 Current Projects
+🔭 **I'm currently working on** expanding [Votely](https://getvotely.com) to better connect young people with local civic opportunities
 
-- **[Votely](https://github.com/juleslemee/CivicNet)** - Building a platform to make local politics more accessible to young people
-- **[AutoNetwork](https://github.com/juleslemee/autoNetwork)** - Automating professional networking with AWS and Python
-- **[Instagram Algorithm Research](https://github.com/juleslemee/comp396)** - Researching content recommendation systems
+🚀 **I recently built** [FaceGrid](https://facegrid.juleslemee.com) for creating AI face mosaics and a [customer churn predictor](https://predictchurn.juleslemee.com) for TelCo use cases.
 
-## 🛠️ Tech Stack
-
-**Languages:** Python, TypeScript, Java, JavaScript  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Spring Boot, FastAPI  
-**Cloud/DevOps:** AWS (EC2, Lambda), Docker, Supabase  
-**Tools:** Selenium, Playwright, Git
-
-## 📫 Let's Connect
-
-- Portfolio: [juleslemee.com](https://www.juleslemee.com)
-- LinkedIn: [linkedin.com/in/juleslemee](https://linkedin.com/in/juleslemee)
-- Email: [contact@juleslemee.com](mailto:contact@juleslemee.com)
+📫 **How to reach me:** contact@juleslemee.com
